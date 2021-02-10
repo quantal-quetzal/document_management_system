@@ -9,6 +9,7 @@ docker-compose up -d
 ## Run server
 
 ```
+cd backend
 yarn dev
 ```
 
