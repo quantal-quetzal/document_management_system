@@ -1,0 +1,4 @@
+backend/uploadDir/*
+!backend/uploadDir/README.md
+
+backend/node_modules

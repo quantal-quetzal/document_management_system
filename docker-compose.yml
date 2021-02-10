@@ -1,0 +1,6 @@
+services:
+  mongodb:
+    restart: always
+    ports:
+      - "27017-27019:27017-27019"
+    image: mongo
