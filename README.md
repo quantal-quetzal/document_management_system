@@ -2,13 +2,13 @@
 
 ## Spin up database
 
-```
+```sh
 docker-compose up -d
 ```
 
 ## Run server
 
-```
+```sh
 cd backend
 yarn dev
 ```
